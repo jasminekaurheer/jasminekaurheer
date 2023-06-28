@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jasminekaurheer
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @jasminekaur
 - 🌱 I’m currently learning web development using html,css and javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jasminekaurheer08@gmail.com
 
 <!---
